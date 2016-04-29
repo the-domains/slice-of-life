@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'The uses of the airplane mode. '
-datePublished: '2016-04-29T18:18:48.424Z'
-dateModified: '2016-04-29T18:17:38.193Z'
+datePublished: '2016-04-29T18:20:25.717Z'
+dateModified: '2016-04-29T18:18:53.888Z'
 author: []
 title: Airplane mode.
 sourcePath: _posts/2016-04-29-from-a-window.md
