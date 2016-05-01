@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'The uses of the airplane mode. '
-datePublished: '2016-04-29T18:20:25.717Z'
-dateModified: '2016-04-29T18:18:53.888Z'
-author: []
+description: ''
+datePublished: '2016-05-01T15:41:23.714Z'
+dateModified: '2016-05-01T15:41:21.282Z'
+author:
+  - name: ''
+    url: ''
 title: Airplane mode.
 sourcePath: _posts/2016-04-29-from-a-window.md
 published: true
@@ -19,14 +20,19 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: airplane-mode/index.html
+_type: Article
 
 ---
 # Airplane mode.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c2f5534-c8cb-4265-a14d-fa635c2479db.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be01e65d84b7d532aa8f12eb807feb74e53a704f.jpg)
 
-I lean towards the window
+_I lean towards the window_
 
-keen finger on the camera
+_a keen finger on my camera_
 
-capturin' a view of our dear land below
+_as I fly past my dear land below._
+
+_I wonder what to call what my eyes can see_
+
+_and I say, "Cloud commuting"._
