@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Responsible child care
-datePublished: '2016-05-01T15:33:38.187Z'
-dateModified: '2016-05-01T15:33:07.750Z'
+datePublished: '2016-05-01T15:34:26.003Z'
+dateModified: '2016-05-01T15:33:45.480Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-01-responsible-child-care.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,14 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-01-responsible-child-care.md
-published: true
 url: responsible-child-care/index.html
 _type: Article
 
 ---
 Responsible child care
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b319af66-796d-45f8-af5a-2a16b38e9e73.jpg)
 
 Responsible Child Care is a program founded on the principles of rational medical care: where pediatricians and mothers act on knowledge and reason to give the best possible care to children. This series of learning sessions are conducted by a group of pediatricians who wish to promote honesty and transparency in the care of children.
